@@ -4,7 +4,7 @@ and the correlation between the economic variables such as consumer price index(
 owner occupiers' housing costs (OOH) and seasonally adjusted total unemployment rate(UR). 
 ****
 **Contains:**
-1. UK dataset scraped using the tweepy module.   
+1. UK dataset scraped using the [Tweepy](https://pypi.org/project/tweepy/) module.   
 2. Narrative classification using [BART Large MNLI Model](https://huggingface.co/facebook/bart-large-mnli) using the labels: *Economy, Politics, Human Trafficking, Citizenship, Border Crossing, Illegal Migrants and Human Rights*, which have been intuitively decided by running multiple GSDMM models on the data. 
 3. Sentiment analysis using [BART Large MNLI Model](https://huggingface.co/facebook/bart-large-mnli) using the labels: Anti-Immigrant Sentiment or Pro-Immigrant Sentiment. 
 4. Daily overall sentiment score by multiplying the negative sentiment scores by zero and getting a daily sentiment mean. 
