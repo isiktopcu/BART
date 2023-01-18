@@ -1,6 +1,6 @@
 # Tweet Classification with BART Large MNLI 
 Narrative and sentiment classification of UK tweets scraped using the word 'immigrant' (November 2021 - July 2021) 
-and the correlation between the economic variables such as consumer price index(CPI), consumer prices index including owner occupiers' housing costs (CPIH),
+and the correlation between the economic variables such as consumer price index (CPI), consumer prices index including owner occupiers' housing costs (CPIH),
 owner occupiers' housing costs (OOH) and seasonally adjusted total unemployment rate(UR). 
 ****
 **Contains:**
